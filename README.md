@@ -47,6 +47,8 @@ The analysis combines exploratory data analysis, feature engineering, and machin
 source venv/bin/activate
        # Windows: venv\Scripts\activate
    
-3.pip install -r requirements.txt
+3. pip install -r requirements.txt
 4. jupyter notebook telco_churn.ipynb
+
+5. 
 ------------------------------------------------------
